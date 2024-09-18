@@ -1,5 +1,4 @@
 // 179. Largest Number
-
 class Solution {
 public:
    static bool compareString(int num1,int num2){
