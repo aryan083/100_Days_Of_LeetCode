@@ -1,28 +1,37 @@
-// 2696. Minimum String Length After Removing Substrings    
+// 1590. Make Sum Divisible by P
+#include <vector>
+#include <unordered_map>
+using namespace std;
+
 class Solution {
 public:
-    int minLength(string s) {
-        stack<char> stack;
-
-        for (int i = 0; i < s.length(); i++) {
-            char cur_char = s[i];
-
-            if (stack.empty()) {
-                stack.push(cur_char);
-                continue;
-            }
-
-            if (cur_char == 'B' && stack.top() == 'A') {
-                stack.pop();
-            }
-            else if (cur_char == 'D' && stack.top() == 'C') {
-                stack.pop();
-            }
-            else {
-                stack.push(cur_char);
-            }
+    int minSubarray(vector<int>& nums, int p) {
+        long totalSum = 0;
+        for (int num : nums) {
+            totalSum += num;
         }
 
-        return stack.size();
+        // Find the remainder when total sum is divided by p
+        int rem = totalSum % p;
+        if (rem == 0) return 0; // If the remainder is 0, no subarray needs to be removed
+
+        unordered_map<int, int> prefixMod;
+        prefixMod[0] = -1;  // Initialize for handling full prefix
+        long prefixSum = 0;
+        int minLength = nums.size();
+
+        for (int i = 0; i < nums.size(); ++i) {
+            prefixSum += nums[i];
+            int currentMod = prefixSum % p;
+            int targetMod = (currentMod - rem + p) % p;
+
+            if (prefixMod.find(targetMod) != prefixMod.end()) {
+                minLength = min(minLength, i - prefixMod[targetMod]);
+            }
+
+            prefixMod[currentMod] = i;
+        }
+
+        return minLength == nums.size() ? -1 : minLength;
     }
 };
