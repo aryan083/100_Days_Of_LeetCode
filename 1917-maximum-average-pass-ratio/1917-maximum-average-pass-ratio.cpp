@@ -1,39 +1,32 @@
-using info = tuple<double, int, int>;
-info A[100000];
 class Solution {
 public:
-    static double maxAverageRatio(vector<vector<int>>& classes, int k) {
-        const int n = classes.size();
+    double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+        auto gain = [](double pass, double total) {
+            return (pass + 1) / (total + 1) - pass / total;
+        };
+
+        priority_queue<pair<double, pair<int, int>>> maxHeap;
+
         double sum = 0.0;
-        int i = 0;
-        for (auto& pq : classes) {
-            int p = pq[0], q = pq[1];
-            sum += (double)p/q;
-            double inc=(double)(q - p) / (q * (q + 1.0));
-            A[i++]={inc, p, q};
+
+        for (const auto& cls : classes) {
+            int pass = cls[0], total = cls[1];
+            sum += (double)pass / total;  
+            maxHeap.push({gain(pass, total), {pass, total}});
         }
-        
-        make_heap(A, A+n);
-        
-        for (int i = 0; i < k; i++) {
-            pop_heap(A, A+n);
-            auto [r, p, q] = A[n-1];
-            if (r==0) break;// early stop
-            
-            // Add the current inc to the sum
-            sum += r;
-            double r2= (double)(q - p) / ((q +1.0)* (q + 2.0));
-            A[n-1]={ r2, p+1, q+1};
-            push_heap(A, A+n);
+
+        for (int i = 0; i < extraStudents; ++i) {
+            auto [currentGain, data] = maxHeap.top(); maxHeap.pop();
+            int pass = data.first, total = data.second;
+
+            sum -= (double)pass / total;
+            pass += 1;
+            total += 1;
+            sum += (double)pass / total;
+
+            maxHeap.push({gain(pass, total), {pass, total}});
         }
-        
-        return sum / n;
+
+        return sum / classes.size();
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
