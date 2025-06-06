@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1063-best-sightseeing-pair](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
