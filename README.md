@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1063-best-sightseeing-pair](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1319-unique-number-of-occurrences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1319-unique-number-of-occurrences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
