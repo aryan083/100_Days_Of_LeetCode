@@ -7,6 +7,5 @@ public:
             res=max(res,prices[i]-currMin);
         }
         return res;
-
     }
 };
