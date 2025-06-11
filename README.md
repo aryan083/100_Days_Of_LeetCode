@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1319-unique-number-of-occurrences) |
