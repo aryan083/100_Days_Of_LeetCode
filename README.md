@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -306,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
