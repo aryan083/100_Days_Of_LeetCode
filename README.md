@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [1635-number-of-good-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
