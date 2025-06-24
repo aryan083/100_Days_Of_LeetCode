@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1054-complement-of-base-10-integer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Trie
 |  |
