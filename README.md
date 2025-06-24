@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1070-convert-to-base-2](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1070-convert-to-base-2) |
 | [1635-number-of-good-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2491-smallest-even-multiple) |
