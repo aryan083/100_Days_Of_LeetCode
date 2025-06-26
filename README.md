@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [1524-string-matching-in-an-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1070-convert-to-base-2](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1070-convert-to-base-2) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
