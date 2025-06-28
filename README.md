@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1070-convert-to-base-2](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1070-convert-to-base-2) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
