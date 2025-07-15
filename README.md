@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2201-valid-arrangement-of-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
