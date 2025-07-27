@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0338-counting-bits) |
 | [1063-best-sightseeing-pair](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
