@@ -3,24 +3,24 @@ typedef set<pair<int, int>> spii;
 class Solution
 {
 public:
-    bool dfs(int row, int col, int i,
-             vvc &board, string &word, spii &paths)
+    bool dfs(int row, int col, int i, vvc &board, const string &word)
     {
         int ROWS = board.size(), COLS = board[0].size();
         if (i == word.length())
             return true;
-        if (row < 0 or col < 0 or row >= ROWS or col >= COLS or board[row][col] != word[i] or paths.count({row, col}))
+        if (row < 0 || col < 0 || row >= ROWS || col >= COLS || board[row][col] != word[i])
             return false;
 
-        paths.insert({row, col});
+        char temp = board[row][col];
+        board[row][col] = '#';
 
-        bool ans = (dfs(row + 1, col, i + 1, board, word, paths) or
-                    dfs(row - 1, col, i + 1, board, word, paths) or
-                    dfs(row, col + 1, i + 1, board, word, paths) or
-                    dfs(row, col - 1, i + 1, board, word, paths));
+        bool found = dfs(row + 1, col, i + 1, board, word) ||
+                    dfs(row - 1, col, i + 1, board, word) ||
+                    dfs(row, col + 1, i + 1, board, word) ||
+                    dfs(row, col - 1, i + 1, board, word);
 
-        paths.erase({row, col});
-        return ans;
+        board[row][col] = temp;
+        return found;
     }
 
     bool exist(vector<vector<char>> &board, string word)
@@ -44,7 +44,7 @@ public:
             {
                 if (board[r][c] == word[0])
                 {
-                    if (dfs(r, c, 0, board, word, paths))
+                    if (dfs(r, c, 0, board, word))
                         return true;
                 }
             }
