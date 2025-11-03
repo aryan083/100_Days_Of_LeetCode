@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0125-valid-palindrome) |
