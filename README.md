@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0724-find-pivot-index) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 | [2868-continuous-subarrays](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
@@ -379,10 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Bit Manipulation
 |  |
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -448,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
