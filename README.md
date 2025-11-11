@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0567-permutation-in-string) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0234-palindrome-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
