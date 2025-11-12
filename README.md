@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0567-permutation-in-string) |
 | [1508-longest-happy-prefix](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0338-counting-bits) |
 | [1063-best-sightseeing-pair](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
