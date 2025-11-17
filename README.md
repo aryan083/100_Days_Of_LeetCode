@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1078-remove-outermost-parentheses](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
