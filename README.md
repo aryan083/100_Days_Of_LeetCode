@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0493-reverse-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0229-majority-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1217-relative-sort-array](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0567-permutation-in-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
