@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## String
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Matrix
 |  |
 | ------- |
