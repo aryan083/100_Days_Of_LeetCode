@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0079-word-search) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/aryan083/100_Days_Of_LeetCode/tree/master/0204-count-primes) |
